@@ -6,7 +6,7 @@ title: Justin Hurst Resume
 Field CTO & Evangelist
 
 <div id="webaddress">
-<a href="hello@justinhurst.com">hello@justinhurst.com</a> | +81 080-7491-1212
+<a href="mailto:hello@justinhurst.com">hello@justinhurst.com</a> | +81 080-7491-1212
 | <a href="http://linkedin.com/in/justinhurst/">LinkedIn</a>
 </div>
 
